@@ -1,0 +1,20 @@
+Shield Effect
+
+To use the effects, simply import the asset to your project.
+Drag and drop prefab in your scene.
+
+Demo Scene-
+
+Simple Firt person movement setup 
+
+A- LEFT
+D- RIGHT
+W- FORWARD
+S- BACKWARD
+SPACE BAR- FOR JUMP
+
+
+
+Important-  
+
+This only work in URP!
