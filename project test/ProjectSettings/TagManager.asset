@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - switch
+  - water
+  - fire
+  - metal
+  - wood
+  - earth
   layers:
   - Default
   - TransparentFX
