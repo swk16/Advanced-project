@@ -5,7 +5,8 @@ Taoist Eight Trigrams(bagua) is an interactive experience presented as a virtual
 
 The core purpose of this piece is to explore the spiritual core of Taoism in Chinese culture, the Eight Trigrams and Yin Yang, the Five Elements, and to present them to participants in a gamified way. This piece is based on the eight trigrams and the properties of the elements they represent, creating different game scenarios. It emphasises the concept that things are profoundly interconnected, corresponding to the Taoist concept that all things are related to each other and that Yin and Yang harmonise to produce balance.
 
-![](images/Bagua (Taoism).jpg)
+![](images/1.jpg)
+
 ###  link 
 ### Project time
 I'll break down my development process into three time periods
