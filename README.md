@@ -1,4 +1,11 @@
 # Advanced-project
+## Taoist Eight Trigrams - An experiment in gestural interaction in virtual reality space
+### ab
+Taoist Eight Trigrams(bagua) is an interactive experience presented as a virtual reality (VR) artwork: the traditional Chinese cultural Taoist Bagua. A system of yin and yang representing the changes of things themselves, symbolising various natural phenomena that are combined in parallel according to the yin and yang changes of nature to form eight different forms. The system is based on the unity game engine and combines oculus meta quest 2 with leap motion gesture control. Through this game scenario we extract the eight elements of the eight trigrams corresponding to heaven, earth, wind, thunder, water, fire, mountain and lake.
+
+The core purpose of this piece is to explore the spiritual core of Taoism in Chinese culture, the Eight Trigrams and Yin Yang, the Five Elements, and to present them to participants in a gamified way. This piece is based on the eight trigrams and the properties of the elements they represent, creating different game scenarios. It emphasises the concept that things are profoundly interconnected, corresponding to the Taoist concept that all things are related to each other and that Yin and Yang harmonise to produce balance.
+
+![](images/Bagua (Taoism).jpg)
 ###  link 
 ### Project time
 I'll break down my development process into three time periods
