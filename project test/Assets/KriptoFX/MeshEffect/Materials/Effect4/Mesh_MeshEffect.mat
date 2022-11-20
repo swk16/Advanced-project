@@ -2,14 +2,19 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Mesh_MeshEffect
   m_Shader: {fileID: 4800000, guid: 972a05a1fafc1c54d8287892f2a939b6, type: 3}
-  m_ShaderKeywords: USE_FRESNEL USE_HEIGHT USE_MAINTEX USE_REFRACTIVE
+  m_ValidKeywords:
+  - USE_FRESNEL
+  - USE_HEIGHT
+  - USE_MAINTEX
+  - USE_REFRACTIVE
+  m_InvalidKeywords: []
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -63,6 +68,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _AlphaClip: 10
     - _BumpAmt: 15
@@ -108,10 +114,10 @@ Material:
     - _CutoutColor: {r: 0, g: 0, b: 0, a: 1}
     - _FresnelColor: {r: 3.8867927, g: 5.424052, b: 8, a: 1}
     - _HeightUVScrollDistort: {r: 0.01, g: -0.05, b: 0, a: 0}
-    - _MainColor: {r: 0.6537559, g: 0.8449462, b: 1.0579867, a: 1}
+    - _MainColor: {r: 0.2621715, g: 1.2925665, b: 0.29184148, a: 1}
     - _ReflectColor: {r: 0.6102941, g: 0.70973617, b: 1, a: 1}
     - _RimColor: {r: 0.5294118, g: 0.5294118, b: 0.5294118, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
     - _Speed: {r: 0, g: 0, b: 0, a: 0}
-    - _TintColor: {r: 0.20981668, g: 0.2626453, b: 0.38679248, a: 0.7764706}
+    - _TintColor: {r: 0.049750824, g: 0.8113208, b: 0.13557848, a: 0.7764706}
   m_BuildTextureStacks: []

@@ -2066,7 +2066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39991b405ae405b4983735cf04dbf677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToSpawn: {fileID: 6698129965884263952, guid: 4863a7f7d126a5f41b01fb03a700b277,
+  objectToSpawn: {fileID: 7538205912435579935, guid: 63a4412f8d776974e8cd1fa40c652f3c,
     type: 3}
   spawnPoint: {fileID: 801201445162538927}
 --- !u!1 &801201445178997348
