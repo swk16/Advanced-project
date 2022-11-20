@@ -12,7 +12,7 @@ I was attracted to The Religious System of China: Its Ancient Forms, Evolution, 
 After experiencing the last demonstration where some of the group used leap motion for gesture manipulation interaction, this fascinated me and there is probably not a boy who would not be blown away by the spaced out manipulation display in the Iron Man movie. So I chose to use vr glasses with gesture interaction to develop the game experience I wanted in unity.
 During the development process I discovered a modified dreamfield3D content generator based on dreamfield-torch, and I also tried to change the input and train it to generate 3-dimensional files in .ply and .obj format to be placed in the game scenes, which fulfilled my initial vision.
 
-![](image/AI.png)
+![](images/AI.png)
 
 
 cci
