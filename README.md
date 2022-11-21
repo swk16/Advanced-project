@@ -5,14 +5,15 @@
 https://www.youtube.com/watch?v=iiQl7l3nNGE
 #### Github link
 https://github.com/swk16/Advanced-project
-### ab
-Taoist Eight Trigrams(bagua) is an interactive experience presented as a virtual reality (VR) artwork: the traditional Chinese cultural Taoist Bagua. A system of yin and yang representing the changes of things themselves, symbolising various natural phenomena that are combined in parallel according to the yin and yang changes of nature to form eight different forms. The system is based on the unity game engine and combines oculus meta quest 2 with leap motion gesture control. Through this game scenario we extract the eight elements of the eight trigrams corresponding to heaven, earth, wind, thunder, water, fire, mountain and lake.
+### Brief
+Bagua is an interactive experience, presented as a virtual reality (VR) artwork. The eight trigrams represent a system of yin and yang in which things change themselves, symbolizing various natural phenomena that are combined in parallel to the yin and yang of nature to form eight different forms. The interactive experience is based on the unity game engine and combines oculus meta quest 2 with leap motion gesture control.
+The core purpose of this piece is to explore the spiritual core of Taoism in Chinese traditional culture, the eight trigrams, by extracting the eight elements of Heaven, Earth, Wind, Thunder, Water, Fire, Mountain and Lake. This is combined with the Taoism five elements, yin and yang, and presented to participants in a gamified way. The eight trigrams and the properties of the elements they represent create different game scenarios. The concept of the deep connection between things is emphasized, corresponding to the Taoist concept that all things are related to each other and that Yin and Yang harmonize to produce balance. All things and phenomena in the vast universe contain yin and yang, the two sides of the surface and the inside. This is the general law of the material world, in which they are both opposed to each other and dependent on each other. This is the general law of the material world, and it is a law that has always influenced us.
+I tried to simulate the identity of a control element in a virtual environment for the player, and then to explore the interactions between the elements by controlling the collision of the trigrams in the Bagua through gestures, to better explain the traditional culture of eight trigrams to the participants.
 
-The core purpose of this piece is to explore the spiritual core of Taoism in Chinese culture, the Eight Trigrams and Yin Yang, the Five Elements, and to present them to participants in a gamified way. This piece is based on the eight trigrams and the properties of the elements they represent, creating different game scenarios. It emphasises the concept that things are profoundly interconnected, corresponding to the Taoist concept that all things are related to each other and that Yin and Yang harmonise to produce balance.
 
 ![](images/1.jpg)
 
-###  link 
+
 ### Project time
 I'll break down my development process into three time periods
 #### The direction period
