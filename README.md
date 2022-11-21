@@ -1,5 +1,5 @@
 # Advanced-project
-## Taoist Eight Trigrams - An experiment in gestural interaction in virtual reality space
+## Bagua - An experimental game of gestural interaction exploring traditional symbols in a virtual reality space.
 ### Links
 #### video link
 https://www.youtube.com/watch?v=iiQl7l3nNGE
