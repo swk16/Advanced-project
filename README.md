@@ -15,6 +15,7 @@ I tried to simulate the identity of a control element in a virtual environment f
 
 
 ### Project time
+
 I'll break down my development process into three time periods
 #### The direction period
 As I proposed at the beginning of the advanced project, I wanted to create a tool to create 3D model format objects through artificial intelligence and machine learning that could be used in unity, unreal and other game engines, but after talking to Charisma.ai, I realized that I didn't have a lot of artificial intelligence and couldn't do it on my own. I am not able to develop this tool independently.
@@ -28,5 +29,6 @@ During the development process I discovered a modified dreamfield3D content gene
 
 ![](images/AI.png)
 
-
+### Game Scenes
+![](images/2.png)
 cci
